@@ -10,5 +10,6 @@ This project is a Java-based educational game that demonstrates algorithms throu
 
 ## How to Run
 Compile and run the main Java file:
-javac AlgorithmOdyssey.java
+
+javac AlgorithmOdyssey.java    
 java AlgorithmOdyssey
